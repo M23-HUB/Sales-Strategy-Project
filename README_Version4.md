@@ -23,12 +23,13 @@ Companies often use multiple sales strategies, but it's not always clear which d
 - The ‘Email + Call’ group has a higher median sales count, a larger volume and a higher median revenue compared to the other two groups making it the most profitable strategy per customer.
 
 ## Technologies Used
-- Python: 
 
--- Pandas, 
--- Matplotlib.pyplot
--- Seaborn
--- Pingouin
+**Python**: 
+
+  1. Pandas, 
+  2. Matplotlib.pyplot
+  3. Seaborn
+  4. Pingouin
 
 
 ## Results & Recommendations
